@@ -18,5 +18,5 @@ Meng's literature report's repository
 ## Other related field
 #### Point cloud processing (PointNet)
 #### GANs
-#### Gradient ascending
-#### Pose Net
+#### [Gradient ascending](./GradientAscending/README.md)
+#### [Pose Net](./PoseNet/README.md)
