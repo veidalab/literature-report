@@ -3,8 +3,8 @@ Eeng's literature report's repository
 
 
 ## Per-pixel level networks:
-Depth map networks
-\n Semantic / instance segmentation
+#### Depth map networks
+#### Semantic / instance segmentation
 ### Salience map
 ### Super resolution
 ### Image completion / restoration / denoising
